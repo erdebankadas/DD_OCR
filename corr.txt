@@ -1,0 +1,15 @@
+python -m venv aa 
+
+
+aa\Scripts\activate
+
+
+
+pip install -r require.txt
+
+
+
+
+
+pyinstaller --onefile --windowed --add-data "easyocr_models;easyocr_models" --icon=skt.ico dd_ready.py
+

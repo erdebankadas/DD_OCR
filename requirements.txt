@@ -1,0 +1,17 @@
+certifi==2025.8.3
+charset-normalizer==3.4.2
+distlib==0.4.0
+env==0.1.0
+filelock==3.18.0
+idna==3.10
+numpy==2.2.6
+opencv-contrib-python==4.12.0.88
+opencv-python==4.12.0.88
+packaging==25.0
+pdf2image==1.17.0
+pillow==11.3.0
+platformdirs==4.3.8
+pytesseract==0.3.13
+requests==2.32.4
+urllib3==2.5.0
+virtualenv==20.33.1
